@@ -43,7 +43,7 @@ The dataset contains 10834 samples and 17 features + target column.
 
 ## 🏆 Result
 - Best Model: Random Forest Classifier  
-- Accuracy: (ضع النتيجة هنا)
+- Accuracy: (91.8%)
 
 ---
 
